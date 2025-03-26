@@ -1,6 +1,6 @@
-# onebite-TS
+# onebite-Next.js
 
-**onebite-TypeScript study example**
+**onebite-Next.js study example**
 <br><br>
 
 ## 📌 Repository 소개
